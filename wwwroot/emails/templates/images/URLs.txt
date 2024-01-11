@@ -6,4 +6,6 @@ https://raw.githubusercontent.com/nodari-code/EmbridiaImg/main/wwwroot/emails/te
 
 https://raw.githubusercontent.com/nodari-code/EmbridiaImg/main/wwwroot/emails/templates/images/logo-email-gray_450x178.png
 
+https://raw.githubusercontent.com/nodari-code/EmbridiaImg/main/wwwroot/emails/templates/images/note-icon6.png
+
 
