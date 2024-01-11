@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/nodari-code/EmbridiaImg/main/wwwroot/emails/templates/images/confirn_email.jpg
 
-https://raw.githubusercontent.com/nodari-code/EmbridiaImg/main/wwwroot/emails/templates/images/header-2-back.png
+https://raw.githubusercontent.com/nodari-code/EmbridiaImg/main/wwwroot/emails/templates/images/logo-email-black-bold_106x36.png
 
 https://raw.githubusercontent.com/nodari-code/EmbridiaImg/main/wwwroot/emails/templates/images/logo-email-black_450x178.png
 
